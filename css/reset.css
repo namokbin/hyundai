@@ -1,0 +1,67 @@
+@charset "utf-8";
+
+html,body{margin:100%; padding:100%;}
+
+html,body,div,span,h1,h2,h3,h4,h5,h5,p,
+blockquote,q,abbr,address,cite,code,img,
+ul,ol,li,dl,dt,dd,a,sub,sup,strong,em,
+header,section,article,footer,aside,nav,
+table,caption,thead,tbody,tfoot,tr,th,td,
+form,fieldset,legend,label,video{margin:0; padding:0; border:0;}
+
+header,section,article,footer,aside,nav{display: block;}
+
+button,label{cursor: pointer;}
+
+table{border-collapse: collapse;}
+
+textarea{resize: none;}
+
+hr,legend,caption{display: none;}
+
+ul,ol,li{list-style: none;}
+
+address,em{font-style: normal; font-weight: 400;}
+
+q{quotes:none;}
+
+a:link{color:#595959;text-decoration:none;}
+a:visited{color:#595959;}
+a:hover{color:#595959;text-decoration:none;}
+a:active{color:#595959;}
+
+
+.clearfix{*zoom:1}
+.clearfix:after{display: block; clear: both; content: '';}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
